@@ -1,0 +1,14 @@
+C:\Tugas MATKUL S2\PEMROGRAMMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\bin\Debug\Sistem Pengelolaan Proyek.exe.config
+C:\Tugas MATKUL S2\PEMROGRAMMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\bin\Debug\Sistem Pengelolaan Proyek.exe
+C:\Tugas MATKUL S2\PEMROGRAMMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\bin\Debug\Sistem Pengelolaan Proyek.pdb
+C:\Tugas MATKUL S2\PEMROGRAMMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\obj\Debug\Sistem Pengelolaan Proyek.csproj.AssemblyReference.cache
+C:\Tugas MATKUL S2\PEMROGRAMMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\obj\Debug\Sistem Pengelolaan Proyek.csproj.CoreCompileInputs.cache
+C:\Tugas MATKUL S2\PEMROGRAMMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\obj\Debug\Sistem Pengelolaan Proyek.exe
+C:\Tugas MATKUL S2\PEMROGRAMMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\obj\Debug\Sistem Pengelolaan Proyek.pdb
+C:\Tugas MATKUL S2\PEMROGRAMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\bin\Debug\Sistem Pengelolaan Proyek.exe.config
+C:\Tugas MATKUL S2\PEMROGRAMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\bin\Debug\Sistem Pengelolaan Proyek.exe
+C:\Tugas MATKUL S2\PEMROGRAMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\bin\Debug\Sistem Pengelolaan Proyek.pdb
+C:\Tugas MATKUL S2\PEMROGRAMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\obj\Debug\Sistem Pengelolaan Proyek.csproj.AssemblyReference.cache
+C:\Tugas MATKUL S2\PEMROGRAMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\obj\Debug\Sistem Pengelolaan Proyek.csproj.CoreCompileInputs.cache
+C:\Tugas MATKUL S2\PEMROGRAMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\obj\Debug\Sistem Pengelolaan Proyek.exe
+C:\Tugas MATKUL S2\PEMROGRAMAN\UAS\Sistem Pengelolaan Proyek\Sistem Pengelolaan Proyek\obj\Debug\Sistem Pengelolaan Proyek.pdb
